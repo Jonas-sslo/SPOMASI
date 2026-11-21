@@ -1,2 +1,0 @@
-# SPOMASI
-Trabalho final - SPOMASI
